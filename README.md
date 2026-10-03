@@ -1,5 +1,7 @@
 # Animated Characters Login UI
 
+[简体中文](./README.zh-CN.md)
+
 A responsive React login screen with four animated characters. The eyes follow the pointer, react when a field receives focus, blink, and respond when the password is revealed.
 
 This source was extracted from HPC_CRM and is designed to be copied into an existing React application. It has no UI-framework dependency; the only runtime peer dependency is React 18 or newer.
